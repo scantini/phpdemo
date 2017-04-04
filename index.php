@@ -4,6 +4,6 @@
 <h3> Hello World patch 6</h3>
 <h3> Hello World from a different branch</h3>
 <h3> Hello World from another branch</h3>
-<h3> Hello World from Brussels</h3>
+<h3> Hello World from Nantes</h3>
 </php>
 
